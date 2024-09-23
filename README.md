@@ -194,7 +194,7 @@ yarn dev
 │   │   │   ├── ProjectPage.css
 │   │   │   └── Index.js
 │   │   └── index.js
-│   ├── reportWebVitals.js
+│   ├── index.js
 │   ├── theme
 │   │   ├── images.js
 │   │   └── theme.js
