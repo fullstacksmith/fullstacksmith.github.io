@@ -7,9 +7,6 @@ const nextConfig = {
   distDir: 'dist',
   images: {
     unoptimized: true,
-    domains: [
-      'i.ibb.co',
-    ],
   },
 
 };
