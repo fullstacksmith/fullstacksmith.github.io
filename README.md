@@ -6,7 +6,7 @@
 
 # Demo :movie_camera:
 
-![](https://res.cloudinary.com/doer1ffjl/image/upload/v1663654797/Portfolio/portfolio_ywlcqv.gif)
+[//]: # (![]&#40;https://res.cloudinary.com/doer1ffjl/image/upload/v1663654797/Portfolio/portfolio_ywlcqv.gif&#41;)
 
 ## View live demo [here](https://abusaid.netlify.app/).
 
@@ -15,18 +15,13 @@
 ## Table of Contents :scroll:
 
 - [Sections](#sections-bookmark)
-- [Demo](#demo-movie_camera)
-- [Installation](#installation-arrow_down)
 - [Getting Started](#getting-started-dart)
-- [Folder Structure](#folder-structure-open_file_folder)
+- [Folder Structure](#folder-structure-openfilefolder)
 - [Usage](#usage-joystick)
-- [Hosting](#hosting-globe_with_meridians)
+- [Hosting](#hosting-globewithmeridians)
 - [SEO](#seo-spider)
 - [Packages Used](#packages-used-package)
-- [APIs Used](#apis-used-world_map)
-- [Fonts and Images](#fonts-and-images-performing_arts)
-- [Upcoming Features](#upcoming-features-construction)
-- [Contributors](#contributors-man_technologistwoman_technologist)
+- [Fonts and Images](#fonts-and-images-performingarts)
 
 ---
 
@@ -335,7 +330,7 @@ export const educationData = [
 <meta itemprop="url" content="--- YOUR SITE URL ---" />
 <meta itemprop="description" content="--- SITE DESCRIPTION ---" />
 <meta itemprop="thumbnailUrl" content="" />
-<link rel="image_src" href="--- YOUR IMAGE ---" />
+<meta rel="image_src" href="--- YOUR IMAGE ---" />
 <meta itemprop="image" content="--- YOUR IMAGE ---" />
 
 <meta name="twitter:site" content="@--- YOUR TWITTER USERNAME ---" />

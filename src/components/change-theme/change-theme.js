@@ -4,7 +4,7 @@ import { ThemeContext } from '../../contexts/theme-context';
 import styles from '../../styles/changeTheme.module.css';
 
 const ChangeTheme = () => {
-  const { theme, changeTheme, isDark } = useContext(ThemeContext);
+  const { changeTheme, isDark } = useContext(ThemeContext);
 
   return (
     <div
