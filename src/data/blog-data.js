@@ -1,11 +1,11 @@
 export const blogData = [
     {
         id: 1,
-        title: 'SCRAPING BILLBOARD AND IMDB USING PYTHON SELENIUM',
-        description: 'Here we will use Selenium to navigate between web pages, and try to scrape data from them.',
-        date: 'Aug 7, 2020',
-        image: 'https://1.bp.blogspot.com/-jhdtUBIRD_s/XxLFKQuRz9I/AAAAAAAABsM/mClfbfDFKvsUwA7Wyi25Lzu3DEmL2lxrACNcBGAsYHQ/s1919/gta.jpg',
-        url: ''
+        title: 'Introduction to the Creational Design Pattern: Factory Method',
+        description: 'Creational design patterns are a set of proven solutions that help manage object creation in a flexible and efficient way, reducing the complexity of instantiation while promoting code reuse. One of the most fundamental and widely used patterns in this category is the Factory Method.',
+        date: 'Sep 29, 2024',
+        image: 'https://img.notionusercontent.com/ext/https%3A%2F%2Frefactoring.guru%2Fimages%2Fpatterns%2Fcontent%2Ffactory-method%2Ffactory-method-en.png%3Fid%3Dcfa26f33dc8473e803fadae0d262100a/size/w=2000?exp=1727591237&sig=i_iLDUyBoQlCXbu9URFFsWGMG3Q4OYhfVwY1KazJAbU',
+        url: 'https://curse-ear-b6a.notion.site/Introduction-to-the-Creational-Design-Pattern-Factory-Method-110df71e8878807e90b5c69e79acd5b7?pvs=4'
     },
     {
         id: 2,
