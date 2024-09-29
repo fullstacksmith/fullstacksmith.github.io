@@ -7,7 +7,7 @@ export const blogData = [
         image: 'https://img.notionusercontent.com/ext/https%3A%2F%2Frefactoring.guru%2Fimages%2Fpatterns%2Fcontent%2Ffactory-method%2Ffactory-method-en.png%3Fid%3Dcfa26f33dc8473e803fadae0d262100a/size/w=2000?exp=1727591237&sig=i_iLDUyBoQlCXbu9URFFsWGMG3Q4OYhfVwY1KazJAbU',
         url: 'https://curse-ear-b6a.notion.site/Introduction-to-the-Creational-Design-Pattern-Factory-Method-110df71e8878807e90b5c69e79acd5b7?pvs=4'
     },
-    {
+   /* {
         id: 2,
         title: 'CHECK WEATHER FROM TERMINAL USING WTTR.IN',
         description: 'wttr.in is a console-oriented weather forecast service that supports various information representation methods like ANSI-sequences for console HTTP clients, HTML, or PNG.',
@@ -38,7 +38,7 @@ export const blogData = [
         date: 'Oct 1, 2020',
         image: 'https://1.bp.blogspot.com/-jhdtUBIRD_s/XxLFKQuRz9I/AAAAAAAABsM/mClfbfDFKvsUwA7Wyi25Lzu3DEmL2lxrACNcBGAsYHQ/s1919/gta.jpg',
         url: ''
-    },
+    },*/
 ]
 
 
